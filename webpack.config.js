@@ -10,5 +10,10 @@ module.exports = {
       template: 'src/index.html',
       hash: true
     }),
+    new HtmlWebpackPlugin({  
+      filename: 'contactar.html',
+      template: 'src/contacto.html',
+      hash: true
+    }),
   ],
 }

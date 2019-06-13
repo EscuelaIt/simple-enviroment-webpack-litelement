@@ -6,7 +6,7 @@ export class LitDemo extends LitElement {
     return html`
     <h1>Lit Demo</h1>
     <p>
-      Esto es un componente <b>lit-element</b>
+      Esto es un componente!!!!! <b>lit-element</b>
     </p>
     `;
   }
